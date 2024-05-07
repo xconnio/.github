@@ -1,3 +1,3 @@
 # XConn project
 
-**Building an ecosystem for real-time apps**
+**Ecosystem for real-time apps**
